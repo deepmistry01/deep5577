@@ -15,6 +15,7 @@
 
 ## 🧠 About Me
 
+* 🎓 Master of Applied Computing — University of Windsor
 * 💻 Software Developer with strong backend and full-stack expertise
 * ⚙️ Skilled in building scalable systems and APIs
 * 🤖 Interested in AI, Machine Learning, and Automation
