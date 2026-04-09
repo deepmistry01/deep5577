@@ -4,7 +4,7 @@
 <h3 align="center">💻 Full Stack Developer | 🚀 Scalable Systems | 🤖 AI & Data Enthusiast</h3>
 
 <p align="center">
-  <a href="[https://your-portfolio-link.com](https://portfolio-link-deep.netlify.app/)">🌐 Portfolio</a> •
+  <a href="(https://portfolio-link-deep.netlify.app/)">🌐 Portfolio</a> •
   <a href="deep.mistry01@gmail.com">📧 Email</a> •
   <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/mistry-deep01/)">🔗 LinkedIn</a>
 </p>
